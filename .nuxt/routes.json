@@ -1,0 +1,23 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/home/azad/Desktop/for learning/nuxtTurkish3/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_6925a330"
+  },
+  {
+    "name": "auth",
+    "path": "/auth",
+    "component": "/home/azad/Desktop/for learning/nuxtTurkish3/pages/auth/index.vue",
+    "chunkName": "pages/auth/index",
+    "_name": "_6404ade0"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/azad/Desktop/for learning/nuxtTurkish3/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_29b5eda6"
+  }
+]
